@@ -1,0 +1,104 @@
+{
+    "Employee": [
+      {
+        "id": 1,
+        "name": "Kushagra",
+        "email": "ks@gmail.com",
+        "mobile": "87204194",
+        "salary": "20000"
+      },
+      {
+        "id": 3,
+        "name": "ram",
+        "email": "ram@gmail.com",
+        "mobile": "98721038",
+        "salary": "30119"
+      },
+      {
+        "id": 4,
+        "name": "vijay",
+        "email": "vj234@gmail.com",
+        "mobile": "908785676",
+        "salary": "20000"
+      },
+      {
+        "id": 6,
+        "name": "ramprasad",
+        "email": "ramu@gmail.com",
+        "mobile": "8974242400",
+        "salary": "602342"
+      },
+      {
+        "id": 7,
+        "name": "Prakash",
+        "email": "prak@gmail.com",
+        "mobile": "9839731",
+        "salary": "31231"
+      },
+      {
+        "id": 8,
+        "name": "sohum",
+        "email": "17.sohum@gmail.com",
+        "mobile": "980231839",
+        "salary": "69022"
+      },
+      {
+        "id": 9,
+        "name": "bhaskar",
+        "email": "bhs78@gmail.com",
+        "mobile": "90873879",
+        "salary": "45000"
+      }
+    ],
+    "Register": [
+      {
+        "id": 1,
+        "name": "Avi",
+        "email": "acs@gmail.com",
+        "pwsd": "1234567",
+        "cpswd": "1234567"
+      },
+      {
+        "id": 2,
+        "name": "ramprasad",
+        "email": "ram@gmail.com",
+        "pwsd": "12345",
+        "cpswd": "12345"
+      },
+      {
+        "id": 3,
+        "name": "ramprasad",
+        "email": "ram@gmail.com",
+        "pwsd": "Yesyesyes11!",
+        "cpswd": "Yesyesyes11!"
+      },
+      {
+        "id": 4,
+        "name": "Avi jain",
+        "email": "ac@gmail.com",
+        "pwsd": "Kush@123",
+        "cpswd": "Kush@123"
+      },
+      {
+        "id": 5,
+        "name": "Kushagra",
+        "email": "ks@gmail.com",
+        "pwsd": "Qwerty@123",
+        "cpswd": "Qwerty@123"
+      },
+      {
+        "id": 6,
+        "name": "shubham",
+        "email": "shbm@gmail.com",
+        "pwsd": "Shubhu@123",
+        "cpswd": "Shubhu@123"
+      },
+      {
+        "id": 7,
+        "name": "sohum golcha",
+        "email": "17.sohum@gmail.com",
+        "pwsd": "Sohum@123",
+        "cpswd": "Sohum@123"
+      }
+    ]
+  }
